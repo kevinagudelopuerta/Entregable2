@@ -1,0 +1,14 @@
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\bin\Debug\net7.0\basket.exe
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\bin\Debug\net7.0\basket.deps.json
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\bin\Debug\net7.0\basket.runtimeconfig.json
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\bin\Debug\net7.0\basket.dll
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\bin\Debug\net7.0\basket.pdb
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\basket.AssemblyInfoInputs.cache
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\basket.AssemblyInfo.cs
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\basket.csproj.CoreCompileInputs.cache
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\basket.dll
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\refint\basket.dll
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\basket.pdb
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\basket.genruntimeconfig.cache
+C:\Users\kevin Alexis\Desktop\Entregable2\basket\obj\Debug\net7.0\ref\basket.dll

@@ -1,0 +1,14 @@
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\bin\Debug\net7.0\pokemones.exe
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\bin\Debug\net7.0\pokemones.deps.json
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\bin\Debug\net7.0\pokemones.runtimeconfig.json
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\bin\Debug\net7.0\pokemones.dll
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\bin\Debug\net7.0\pokemones.pdb
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\pokemones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\pokemones.AssemblyInfoInputs.cache
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\pokemones.AssemblyInfo.cs
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\pokemones.csproj.CoreCompileInputs.cache
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\pokemones.dll
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\refint\pokemones.dll
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\pokemones.pdb
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\pokemones.genruntimeconfig.cache
+C:\Users\kevin Alexis\Desktop\Entregable2\pokemones\obj\Debug\net7.0\ref\pokemones.dll
